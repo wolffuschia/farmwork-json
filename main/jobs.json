@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "title": "Berry Picking",
+    "description": "Pick strawberries at Sunny Farm",
+    "latitude": -23.7412,
+    "longitude": 133.8827,
+    "pay": 20.5
+  },
+  {
+    "id": "2",
+    "title": "Citrus Harvest",
+    "description": "Harvest oranges at Citrus Grove",
+    "latitude": -35.2809,
+    "longitude": 149.1300,
+    "pay": 22.0
+  }
+
+]
